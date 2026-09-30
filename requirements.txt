@@ -1,0 +1,8 @@
+langchain
+langgraph
+langchain-google-genai
+langchain-mcp-adapters
+mcp
+python-dotenv
+fastapi
+uvicorn
